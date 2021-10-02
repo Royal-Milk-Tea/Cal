@@ -1,11 +1,1 @@
-{
-    "10/10/2021": {
-        "type":"Conference",
-        "title": "International Conference",
-        "venue":"Hyatt Regency Hotel",
-        "location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "desc": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.example.com"
-    }
- }
+[{"id": 1, "date": "2021-10-10 00:00:00.000000", "dm_id": 1, "title": "Third Act", "location": "Discord", "description": "A band of unlikely heroes"}]
